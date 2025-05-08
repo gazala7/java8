@@ -34,5 +34,5 @@ public class StaticMemberExample {
 	System.out.println(m1());
 	}
 
-
+	}
 }
